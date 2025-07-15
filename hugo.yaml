@@ -1,5 +1,72 @@
 baseURL: https://imtiazkun.github.io/buhcorg/
 languageCode: en-us
 title: BUHC
-theme: ["PaperMod"]
+theme: hextra
 publishDir: "docs"
+
+
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: English
+    weight: 1
+    title: BUHC
+  fr:
+    languageName: Bangla
+    weight: 1
+    title: বি.ইউ.এইচ.সি.
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: About
+      url: /about/
+      weight: 2
+    - name: Panel
+      url: /panel/
+      weight: 3
+    - name: Facebook
+      weight: 97
+      url: "https://github.com/helixml/docs"
+      params:
+        icon: facebook
+    - name: Instagram
+      weight: 98
+      url: "https://twitter.com/helixml"
+      params:
+        icon: instagram
+    - name: Youtube
+      weight: 98
+      url: "https://twitter.com/helixml"
+      params:
+        icon: youtube
+    - name: Search
+      weight: 99
+      params:
+        type: search
+
+
+params:
+
+  navbar:
+    displayTitle: true
+    displayLogo: false
+    logo:
+      path: /logo.svg
+      dark: /logo.svg
+      link: /
+      width: 20
+      height: 10
+    width: wide
+
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: normal
+
+  
+
+comments:
+  enable: false
+  type: giscus

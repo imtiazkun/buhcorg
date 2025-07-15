@@ -1,0 +1,46 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BUHC – Posts</title>
+    <link>https://imtiazkun.github.io/buhcorg/posts/</link>
+    <description>Recent content in Posts on BUHC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 15 Jul 2025 12:12:56 +0600</lastBuildDate>
+    
+	  <atom:link href="https://imtiazkun.github.io/buhcorg/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Our Goal Something</title>
+      <link>https://imtiazkun.github.io/buhcorg/posts/our-goal-something/</link>
+      <pubDate>Tue, 15 Jul 2025 12:12:56 +0600</pubDate>
+      
+      <guid>https://imtiazkun.github.io/buhcorg/posts/our-goal-something/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Random bs&lt;/h1&gt;&lt;p&gt;Blah blah blah&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://imtiazkun.github.io/buhcorg/posts/title-arna-alld-asd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://imtiazkun.github.io/buhcorg/posts/title-arna-alld-asd/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
